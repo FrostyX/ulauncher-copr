@@ -1,0 +1,19 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Copr",
+  "description": "Open Copr projects in the web browser",
+  "developer_name": "Jakub Kadlčík <frostyx@email.cz>",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "copr",
+      "type": "keyword",
+      "name": "Copr",
+      "description": "Search Copr projects",
+      "default_value": "copr"
+    }
+  ]
+}
