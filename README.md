@@ -3,6 +3,10 @@
 An [Ulauncher][ulauncher] extension to open [Copr][copr] projects in the web
 browser.
 
+It doesn't search all Copr projects, that would be too slow. The search is
+limited to the user configured in `~/.config/copr`. The support for searching
+group projects hasn't been implemented yet.
+
 
 ## Screenshot
 
