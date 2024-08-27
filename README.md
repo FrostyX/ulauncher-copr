@@ -10,6 +10,8 @@ group projects hasn't been implemented yet.
 
 ## Screenshot
 
+You can [watch my video][video] to see it in action.
+
 ![Preview](./images/screenshot.png)
 
 
@@ -42,3 +44,4 @@ pip install --user copr
 
 [ulauncher]: https://ulauncher.io/
 [copr]: https://copr.fedorainfracloud.org/
+[video]: https://www.youtube.com/watch?v=uQFDhRGB_lM
